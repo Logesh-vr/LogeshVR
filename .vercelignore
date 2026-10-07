@@ -1,0 +1,13 @@
+.git
+.github
+node_modules
+.npm-cache
+dist
+coverage
+.env
+.env.*
+.vercel
+*.log
+*.tsbuildinfo
+playwright-report
+test-results
